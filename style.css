@@ -151,7 +151,9 @@ h2{
 }
 
 h2 img{
-    position:absolute;left: 0px;
+     position:absolute;left: 0px;
+    height: 400px;
+    width: 300px;
 }
 
 
