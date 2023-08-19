@@ -162,6 +162,6 @@ h2 img{
 }
 
 .mimi{
-    position: fixed;left: 30px;
+    position: absolute;left:30px;
 }
 
